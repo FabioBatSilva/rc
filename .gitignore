@@ -4,3 +4,7 @@ deps/
 ebin/
 rel/rc
 dev
+erl_crash.dump
+*~
+.#*
+*#
